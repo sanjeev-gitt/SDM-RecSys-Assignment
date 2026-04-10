@@ -9,7 +9,7 @@ Student ID: 500975381
 
 | Notebook | Dataset | Techniques |
 |----------|---------|------------|
-| Notebook1_MoviLens_TechniquesA_D.ipynb | MovieLens 1M | Technique A: SVD + SVD++ (bonus), Technique D: ItemKNN |
+| MovieLens_RecSys.ipynb | MovieLens 1M | Technique A: SVD + SVD++ (bonus), Technique D: ItemKNN |
 | Yelp_RecSys.ipynb | Yelp Academic Dataset | Technique B: Content UserKNN + ItemKNN, Technique C: Collab UserKNN |
 
 ## Results Summary
